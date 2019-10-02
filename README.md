@@ -7,7 +7,7 @@ I used IS41C16257-35 chips (256k x 16) as they're cheap, abundant and they have 
 
 It's a pretty simple design, just three decoupling caps for each DRAM IC and the correct pin layout for it to plug into the A500 board. 
 
-This Rev2 design reduces the component count, the board size and improves the layout and routing considerably.
+This Rev3 design reduces the component count, the board size and improves the layout and routing considerably.
 
 Project is all done in KiCad 5.1.2
 
