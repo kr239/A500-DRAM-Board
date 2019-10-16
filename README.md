@@ -11,7 +11,7 @@ This Rev3 design reduces the component count, the board size and improves the la
 
 Project is all done in KiCad 5.1.2
 
-If you've been linked to this project from elsewhere - please note, while I might occasionally have some of these PCB's available, I don't typically have these produced and for sale, except for testing. I'll add in a link on PCBWay 
+If you've been linked to this project from elsewhere - please note, while I might occasionally have some of these PCB's available, I don't typically have these produced and for sale, except for testing. To purchase one, please go here: https://www.pcbway.com/project/shareproject/Amiga_500__DRAM_Replacement_Board.html
 
 # Bill of Materials
 
